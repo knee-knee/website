@@ -1,0 +1,13 @@
+# editorconfig.org
+root = true
+
+[*]
+ident_syle = space
+ident_size = 2
+end_of_line = lf
+cahrset = utf-8
+trim_trailing_whitespace = true
+inset_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
